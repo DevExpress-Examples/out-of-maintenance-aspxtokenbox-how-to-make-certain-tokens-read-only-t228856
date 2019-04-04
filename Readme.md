@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/TokenBox/Default.aspx) (VB: [Default.aspx.vb](./VB/TokenBox/Default.aspx.vb))
+* [Default.aspx](./CS/TokenBox/Default.aspx) (VB: [Default.aspx](./VB/TokenBox/Default.aspx))
 * [Default.aspx.cs](./CS/TokenBox/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/TokenBox/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxTokenBox - How to make certain tokens read-only
